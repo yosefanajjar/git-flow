@@ -1,3 +1,8 @@
+.heading{
+    font-size: 32px;
+    color: #242424;
+  }
+
 .movies {
     width: 80%;
     margin: 0 auto;
